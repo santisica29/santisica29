@@ -3,14 +3,14 @@
   - Local data persistence
   - CRUD operations
   - Clean separation of concerns
-  - MVVM pattern
+  - MVVM architecture
   
 - 🌱 Technical experience:
-  - **C#** (OOP, MVC, CRUD)
+  - **C#** (OOP)
   - **.NET / .NET MAUI**
   - **SQL / SQLite**
   - **JavaScript**
-  - **Node.Js**
+  - **Node.js**
   - **MongoDB**
 - 📫 Contact: santisica29@gmail.com | [Linkedin](https://www.linkedin.com/in/santiago-sica/)
 <!--
