@@ -1,4 +1,4 @@
-## Jr DEV - C#, .NET, MAUI, JavaScript, Node.Js, SQLite  👋
+## Jr DEV - C#, .NET, MAUI, JavaScript, Node.Js, SQL  👋
 - 🔭 I’m currently working on a MAUI "Books to Read" app with SQLite
 - 🌱 Technologies I've used:
   - C#
