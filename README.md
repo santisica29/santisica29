@@ -1,15 +1,18 @@
-## Jr DEV - C#, .NET, MAUI, JavaScript, Node.Js, SQL  👋
-- 🔭 I’m currently working on a MAUI "Books to Read" app with SQLite
-- 🌱 Technologies I've used:
-  - C#
-  - .NET
-  - MAUI
-  - JavaScript
-  - SQLite
-  - SQL Server
-  - MongoDB
-  - Node.Js
-- 📫 How to reach me: santisica29@gmail.com or [linkedin](https://www.linkedin.com/in/santiago-sica/)
+## Junior Software Developer - C#, .NET, MAUI, JavaScript, Node.js, SQL  👋
+- 🔭 Current project: **“Books to Read”** — a cross-platform app built with **.NET MAUI** and **SQLite**
+  - Local data persistence
+  - CRUD operations
+  - Clean separation of concerns
+  - MVVM pattern
+  
+- 🌱 Technical experience:
+  - **C#** (OOP, MVC, CRUD)
+  - **.NET / .NET MAUI**
+  - **SQL / SQLite**
+  - **JavaScript**
+  - **Node.Js**
+  - **MongoDB**
+- 📫 Contact: santisica29@gmail.com | [Linkedin](https://www.linkedin.com/in/santiago-sica/)
 <!--
 **santisica29/santisica29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
