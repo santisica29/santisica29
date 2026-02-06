@@ -1,15 +1,9 @@
-## Junior Software Developer - C#, .NET, .NET MAUI, JavaScript, Node.js, SQL  ⚡
-- 🔭 Current project: **“Books to Read”** — a cross-platform app built with **.NET MAUI** and **SQLite**
-  - Local data persistence with SQLite
-  - CRUD operations
-  - Clean separation of concerns
-  - Data binding
-  - MVVM architecture
+
   
 - 🌱 Technical experience:
   - **C#** (OOP)
   - **.NET / .NET MAUI**
-  - **SQL / SQLite**
+  - **SQL / SQLite / SQL Server**
   - **JavaScript**
   - **Node.js**
   - **MongoDB**
