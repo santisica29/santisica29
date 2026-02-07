@@ -1,4 +1,7 @@
+SOFTWARE DEVELOPER C#, .NET, JavaScript
 
+My name is Santiago and I'm a software developer, based in Uruguay.
+Looking for remote jobs where I can continue to develop my skills.
   
 - 🌱 Technical experience:
   - **C#** (OOP)
